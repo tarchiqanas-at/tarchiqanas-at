@@ -18,14 +18,14 @@ Driven by tech-innovation, I successfully achieved **10 international tech certi
 ### 🛡️ Cybersecurity & Ethical Hacking
 
 - **Certified in Cybersecurity (CC) Series:**
-  - `CC` - [Core Security Principles & Risk Management]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.14.pdf))
+  - `CC` - [Core Security Principles & Risk Management]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.14.pdf)
   - `CC` - [Security Governance, Policies, and Compliance](https://github.com)
-  - `CC` - [Business Continuity Planning (BCP)]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.06.pdf))
-  - `CC` - [Incident Response]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.02.pdf))
+  - `CC` - [Business Continuity Planning (BCP)]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.06.pdf)
+  - `CC` - [Incident Response]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.02.pdf)
 - **Certified Ethical Hacker (CEH v13):**
-  - `CEH v13` - [Introduction to Ethical Hacking]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.08.pdf))
+  - `CEH v13` - [Introduction to Ethical Hacking]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.08.pdf)
 - **CompTIA Fundamentals:**
-  - `CompTIA IT Fundamentals` - [CIA Triad]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.01.pdf))
+  - `CompTIA IT Fundamentals` - [CIA Triad]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.01.pdf)
 
 ### ☁️ Cloud Computing & Agile Methodologies
 
@@ -33,9 +33,9 @@ Driven by tech-innovation, I successfully achieved **10 international tech certi
   - [Microsoft Azure Fundamentals (AZ-900 Core Concepts)]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.12.pdf)
 - **Cloud Architecture & Platforms:**
   - `Cloud Data Platforms` - [Cloud Computing Infrastructure]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.10.pdf)
-  - [Defining Cloud Computing for Decision-makers]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.04.pdf))
+  - [Defining Cloud Computing for Decision-makers]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.04.pdf)
 - **Agile Frameworks:**
-  - [Agile Organizations - Cloud for Agile Software Development]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2013.57.pdf))
+  - [Agile Organizations - Cloud for Agile Software Development]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2013.57.pdf)
 
 
 ---
