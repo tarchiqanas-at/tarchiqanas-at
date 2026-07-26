@@ -54,5 +54,5 @@ Driven by tech-innovation, I successfully achieved **10 international tech certi
 ---
 
 <p align="center">
-  <img src="https://glitch.me" alt="Anas's GitHub Views" />
+  <img src="https://seeyoufarm.com" alt="Anas's GitHub Views" />
 </p>
