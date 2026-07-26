@@ -30,9 +30,9 @@ Driven by tech-innovation, I successfully achieved **10 international tech certi
 ### ☁️ Cloud Computing & Agile Methodologies
 
 - **Microsoft Azure:**
-  - [Microsoft Azure Fundamentals (AZ-900 Core Concepts)]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.12.pdf))
+  - [Microsoft Azure Fundamentals (AZ-900 Core Concepts)]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.12.pdf)
 - **Cloud Architecture & Platforms:**
-  - `Cloud Data Platforms` - [Cloud Computing Infrastructure]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.10.pdf))
+  - `Cloud Data Platforms` - [Cloud Computing Infrastructure]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.10.pdf)
   - [Defining Cloud Computing for Decision-makers]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2014.04.pdf))
 - **Agile Frameworks:**
   - [Agile Organizations - Cloud for Agile Software Development]([https://github.com](https://github.com/tarchiqanas-at/My-Certifications/blob/main/CamScanner%2008-07-2026%2013.57.pdf))
