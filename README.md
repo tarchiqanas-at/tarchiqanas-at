@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anas Tarchika!
+# 👋 Hi, I'm Anas Tarchiq!
 ### 🚗 Automotive Sales Specialist (TCVVPR) & 🛡️ IT/Cybersecurity Enthusiast
 
 An ambitious **TCVVPR (Technicien Commercial en Vente de Véhicules et Pièces de Rechange)** student at **ISTA / OFPPT**, combining a solid background in **Humanities (French Option)** with advanced, certified expertise in **Information Technology, Cloud, and Cybersecurity**. 
