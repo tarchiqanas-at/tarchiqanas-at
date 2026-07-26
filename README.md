@@ -51,3 +51,8 @@ Driven by tech-innovation, I successfully achieved **10 international tech certi
 ### 🤝 Connect with Me
 - 💼 **LinkedIn:** linkedin.com/in/anas-tarchiq-50a8203a8
 - 📧 **Email:** [tarchikanas@gmail.com](mailto:tarchikanas@gmail.com)
+---
+
+<p align="center">
+  <img src="https://glitch.me" alt="Anas's GitHub Views" />
+</p>
